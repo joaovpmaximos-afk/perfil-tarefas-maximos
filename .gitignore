@@ -1,0 +1,22 @@
+# Este repositório é o GitHub Pages PÚBLICO de perfildetarefas.maximosse.com.br: publica só a página
+# gerada (index.html), o logo e o CNAME.
+#
+# Fonte, testes e documentação interna ficam FORA de propósito: os testes e os docs citam empresa real
+# da carteira (razão social e CNPJ), e o README descreve sistema interno. O código vive no OneDrive,
+# em MAXIMOS\MX PERFIL DE TAREFAS.
+src/
+test/
+docs/
+dist/
+build.js
+README.md
+node_modules/
+.claude/
+
+# Nunca entra no repositório: dado de cliente.
+*.csv
+*.xlsx
+*.db
+relacao*
+dados/
+EXPORTS/
